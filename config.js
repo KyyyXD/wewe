@@ -36,7 +36,7 @@ global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '082393623017'
+global.pdana = '6282393623017'
 global.povo = '-'
 global.pgopay = '-'
 global.ppulsa = '6281354429979'
@@ -45,7 +45,7 @@ global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281354429979'
-global.nomorown = '628393623017'
+global.nomorown = '6282393623017'
 global.namebot = 'Kikyy Publicラ'
 global.nameown = 'Kikyy'
 
