@@ -30,8 +30,8 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 global.sig = 'https://instagram.com/drak_ipul123'
 global.syt = 'https://youtu.be/pwLZpdfO8AU'
 global.sgh = 'https://github.com/SaipulAnuar'
-global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/6288279268363'
+global.sgc = 'https://chat.whatsapp.com/HijWju9DBIV6GoNVc1SXQx'
+global.swa = 'wa.me/6282393623017'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
@@ -39,7 +39,7 @@ global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 global.pdana = '082393623017'
 global.povo = '-'
 global.pgopay = '-'
-global.ppulsa = '-'
+global.ppulsa = '6281354429979'
 global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.co/raraharsita2'
 
@@ -52,7 +52,7 @@ global.nameown = 'Kikyy'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288279268363', 'Kikyy', 'true']
+  ['6282393623017', 'Kikyy', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
